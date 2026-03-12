@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi I'm Ryo 👋
 
-<!--
-**RyoBackend/RyoBackend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer (Learning)
 
-Here are some ideas to get you started:
+I'm currently learning backend development using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Skills
+- Python
+- OOP
+- Git&GitHub
+- Tkinter
+- APIs(Learning)
+- Flask / FastAPI(Learning)
+
+## Projects
+
+### Scientific Calculator
+Python based scientific calculator with OOP
+
+Features
+- Arithemetic functions
+- Trigonometric functions
+
+Project link :
+https://github.com/RyoBackend/Projects
+
+##Currently Learning 
+- REST API
+- Flask
+- FastAPI
+- Database
